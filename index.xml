@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz-Plugins</title>
+      <link>https://boxi-os.github.io/quartz-plugins</link>
+      <description>Last 10 notes on Quartz-Plugins</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>1.3 – The six parts</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/multilanguage/1-getting-started/03-the-six-parts</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/multilanguage/1-getting-started/03-the-six-parts</guid>
+    <description><![CDATA[ One entry, six roles — what the plugin does at which point of the build, and why `order` almost never matters. ]]></description>
+    <pubDate>Wed, 04 Nov 2026 20:58:13 GMT</pubDate>
+  </item><item>
+    <title>9.3 – Limits</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/multilanguage/9-reference/03-limits</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/multilanguage/9-reference/03-limits</guid>
+    <description><![CDATA[ What the plugin cannot do, with the reason for each. ]]></description>
+    <pubDate>Wed, 04 Nov 2026 20:58:13 GMT</pubDate>
+  </item><item>
+    <title>9.3 – Grenzen</title>
+    <link>https://boxi-os.github.io/quartz-plugins/multilanguage/9-nachschlagen/03-grenzen</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/multilanguage/9-nachschlagen/03-grenzen</guid>
+    <description><![CDATA[ Was das Plugin nicht kann, mit dem Grund dafür. ]]></description>
+    <pubDate>Wed, 04 Nov 2026 20:58:13 GMT</pubDate>
+  </item><item>
+    <title>1.3 – Die sechs Teile</title>
+    <link>https://boxi-os.github.io/quartz-plugins/multilanguage/1-einstieg/03-die-sechs-teile</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/multilanguage/1-einstieg/03-die-sechs-teile</guid>
+    <description><![CDATA[ Ein Eintrag, sechs Rollen — was das Plugin an welcher Stelle des Baus tut, und warum `order` fast nie zählt. ]]></description>
+    <pubDate>Wed, 04 Nov 2026 20:58:13 GMT</pubDate>
+  </item><item>
+    <title>Four plugins for Quartz</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/</guid>
+    <description><![CDATA[ The handbooks for four plugins for Quartz – boxes in the layout, several languages, navigations and forms. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 16:44:17 GMT</pubDate>
+  </item><item>
+    <title>Vier Plugins für Quartz</title>
+    <link>https://boxi-os.github.io/quartz-plugins/</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/</guid>
+    <description><![CDATA[ Die Handbücher zu vier Plugins für Quartz – Boxen im Layout, mehrere Sprachen, Navigationen und Formulare. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 16:44:16 GMT</pubDate>
+  </item><item>
+    <title>3.1 – rootPath and scope</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/3-the-scope/01-rootpath-and-scope</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/3-the-scope/01-rootpath-and-scope</guid>
+    <description><![CDATA[ rootPath sets the root, scope chooses relative to the current page — root, section, parent and current side by side. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 16:44:09 GMT</pubDate>
+  </item><item>
+    <title>8.1 – The navigations of this site</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/8-recipes/01-the-navigations-of-this-site</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/8-recipes/01-the-navigations-of-this-site</guid>
+    <description><![CDATA[ An accordion on the left that turns into a drawer on smartphones, and a pager below the text — two entries for both languages, every option explained. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 16:44:09 GMT</pubDate>
+  </item><item>
+    <title>3.1 – rootPath und scope</title>
+    <link>https://boxi-os.github.io/quartz-plugins/navigations/3-der-ausschnitt/01-rootpath-und-scope</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/navigations/3-der-ausschnitt/01-rootpath-und-scope</guid>
+    <description><![CDATA[ rootPath legt die Wurzel fest, scope wählt relativ zur aktuellen Seite — root, section, parent und current im direkten Vergleich. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 16:44:09 GMT</pubDate>
+  </item><item>
+    <title>8.1 – Die Navigationen dieser Website</title>
+    <link>https://boxi-os.github.io/quartz-plugins/navigations/8-rezepte/01-die-navigationen-dieser-website</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/navigations/8-rezepte/01-die-navigationen-dieser-website</guid>
+    <description><![CDATA[ Ein Akkordeon links, das auf dem Smartphone zur Schublade wird, und ein Pager unter dem Text — zwei Einträge für beide Sprachen, jede Option begründet. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 16:44:09 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
