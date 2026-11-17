@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz-Plugins</title>
+      <link>https://boxi-os.github.io/quartz-plugins</link>
+      <description>Letzte 10 Seiten on Quartz-Plugins</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>7.1 – Icons</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/7-appearance/01-icons</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/7-appearance/01-icons</guid>
+    <description><![CDATA[ The file-explorer glyphs, custom icons from frontmatter or configuration, Lucide, your own SVG files, and which variant shows what. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:06:11 GMT</pubDate>
+  </item><item>
+    <title>7.1 – Icons</title>
+    <link>https://boxi-os.github.io/quartz-plugins/navigations/7-aussehen/01-icons</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/navigations/7-aussehen/01-icons</guid>
+    <description><![CDATA[ Die Glyphen wie im Datei-Explorer, eigene Icons aus Frontmatter oder Konfiguration, Lucide, eigene SVG-Dateien, und welche Variante was zeigt. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:06:06 GMT</pubDate>
+  </item><item>
+    <title>4.4 – The edge menu</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/4-variants/04-edge-menu</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/4-variants/04-edge-menu</guid>
+    <description><![CDATA[ rail — a button in the header, a menu at the window edge, optionally with an icon strip, over the page or beside it. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:05:48 GMT</pubDate>
+  </item><item>
+    <title>9.2 – Messages</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/9-reference/02-messages</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/9-reference/02-messages</guid>
+    <description><![CDATA[ What the plugin prints at build time, what it means and what to do. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:05:48 GMT</pubDate>
+  </item><item>
+    <title>4.4 – Das Randmenü</title>
+    <link>https://boxi-os.github.io/quartz-plugins/navigations/4-darstellungen/04-randmenue</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/navigations/4-darstellungen/04-randmenue</guid>
+    <description><![CDATA[ rail — ein Button im Kopf, ein Menü am Fensterrand, wahlweise mit Icon-Leiste, über der Seite oder daneben. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:05:48 GMT</pubDate>
+  </item><item>
+    <title>9.2 – Meldungen</title>
+    <link>https://boxi-os.github.io/quartz-plugins/navigations/9-nachschlagen/02-meldungen</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/navigations/9-nachschlagen/02-meldungen</guid>
+    <description><![CDATA[ Was das Plugin beim Bauen ausgibt, was es bedeutet und was zu tun ist. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:05:48 GMT</pubDate>
+  </item><item>
+    <title>9.1 – Every option</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/9-reference/01-every-option</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/9-reference/01-every-option</guid>
+    <description><![CDATA[ Every option with its values, default and the chapter that explains it. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:05:48 GMT</pubDate>
+  </item><item>
+    <title>9.1 – Alle Optionen</title>
+    <link>https://boxi-os.github.io/quartz-plugins/navigations/9-nachschlagen/01-alle-optionen</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/navigations/9-nachschlagen/01-alle-optionen</guid>
+    <description><![CDATA[ Jede Option mit Werten, Vorgabe und dem Kapitel, das sie erklärt. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 22:05:48 GMT</pubDate>
+  </item><item>
+    <title>7.3 – Markup and accessibility</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/7-appearance/03-markup-and-accessibility</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/7-appearance/03-markup-and-accessibility</guid>
+    <description><![CDATA[ The classes of the built HTML, the states, what a fixed id is good for, and what keyboard and screen reader get. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:22:47 GMT</pubDate>
+  </item><item>
+    <title>1.1 – Why this plugin</title>
+    <link>https://boxi-os.github.io/quartz-plugins/en/navigations/1-getting-started/01-why-this-plugin</link>
+    <guid>https://boxi-os.github.io/quartz-plugins/en/navigations/1-getting-started/01-why-this-plugin</guid>
+    <description><![CDATA[ What Quartz's explorer does, where it stops — and what navigation a website needs beyond it. ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:22:47 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
